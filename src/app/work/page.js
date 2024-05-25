@@ -1,4 +1,4 @@
-'use client';
+// 'use client';
 import GlobalDesignJsx from "../globalDesignLayout";
 // import Work from '../../../Components/Work'
 
